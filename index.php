@@ -157,10 +157,8 @@
                         </form>
                         <div class="row">
                             <div class="col-md-12 d-flex justify-content-center">
-                            
-                    <img class="image"
-                                 src="static/payco.png"
-                                 alt="">
+
+                                <img class="image" src="static/payco.png" alt="">
 
 
                             </div>
@@ -180,47 +178,36 @@
                 <div class="col-md-12 text-center">
                     <h1 style="font-weight: bold; color: #008458">Conoce todas nuestras opciones de pago</h1>
                 </div>
-
-                <div class="col-md-12 text-center">
+                <div class="col-md-12 text-center  uk-child-width-auto uk-align-center	uk-width-medium	uk-width-1-1">
                     <div class="uk-position-relative uk-flex uk-animation-toggle" tabindex="-1" uk-slider="autoplay: trueautoplay-interval: 600pause-on-hover: true">
 
                         <ul class="uk-slider-items uk-child-width-1-2 uk-child-width-1-3@s uk-child-width-1-4@m ">
                             <li class="uk-card  uk-card-body">
                                 <img style="position: relative; top:18px;" src="static/bancos_small/bbva.svg" style="width: 200px" alt="banco bbva" class="banco">
-
-
                             </li>
                             <li class="uk-card  uk-card-body">
                                 <img style="position: relative; top:28px;" src="static/bancos_small/cajasocial.svg" style="width: 200px" alt="banco caja social">
-
                             </li>
                             <li class="uk-card  uk-card-body">
                                 <img src="static/bancos_small/cooper.svg" alt="banco cooper" style="width: 200px" class="banco">
-
                             </li>
                             <li class="uk-card  uk-card-body">
                                 <img style="position: relative; top:48px;" src="static/bancos_small/davivienda.svg" style="width: 200px" alt="banco davivienda" class="banco">
-
                             </li>
                             <li class="uk-card  uk-card-body ">
                                 <img src="static/bancos_small/efecty.svg" style="width: 230px" alt="efecty" class="banco uk-position-center">
-
                             </li>
                             <li class="uk-card  uk-card-body">
                                 <img src="static/bancos_small/pse.svg" alt="pse" class="uk-position-center">
-
                             </li>
                             <li class="uk-card  uk-card-body">
                                 <img src="static/bancos_small/bancolombia.svg" style="width: 200px" alt="banco bancolombia" class="uk-position-center">
-
                             </li>
                             <li class="uk-card  uk-card-body">
                                 <img style="position: relative; top:45px;" src="static/bancos_small/supergiros.svg" alt="supergiros" style="width: 250px" class="banco">
-
                             </li>
                             <li class="uk-card  uk-card-body">
                                 <img src="static/bancos_small/occidente.svg" style="width: 200px" alt="banco occidente" class="banco">
-
                             </li>
                         </ul>
 
